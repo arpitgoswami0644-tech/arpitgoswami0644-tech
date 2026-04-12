@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my First github file.
+Author- Arpit goswami.
 
 <!--
 **arpitgoswami0644-tech/arpitgoswami0644-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
